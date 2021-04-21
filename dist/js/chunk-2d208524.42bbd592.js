@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208524"],{a3fb:function(n,t,e){"use strict";function o(n){var t=n.next,e=n.router;return localStorage.getItem("jwt")?t(0):e.push({name:"login"})}e.r(t),e.d(t,"default",(function(){return o}))}}]);
+//# sourceMappingURL=chunk-2d208524.42bbd592.js.map
